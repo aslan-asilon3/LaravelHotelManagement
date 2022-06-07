@@ -1,5 +1,7 @@
 # LaravelHotelManagement
 
+<imgsrc="myread/screenshots/contoh1.png">
+
 ## 1.landing-page
 ![1.landing-page](/uploads/a3f17ac2e0ec64d91abe68eb5149596d/1.landing-page.png)
 
