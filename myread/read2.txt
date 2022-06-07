@@ -1,0 +1,22 @@
+============command for spesific migrate
+php artisan migrate --path=/database/migrations/2014_10_12_000000_create_users_table.php
+
+source : http://agussuratna.net/2021/04/16/tutorial-laravel-8-migration-laravel/
+
+====================== database seeder
+
+=================seeder table booking
+php artisan make:seeder BookingSeeder
+
+        Post::create([
+            'title' => 'Post 1',
+            'description' => 'Description for post 1',
+            'body' => 'Body for post 1'
+        ]);
+
+
+        php artisan db:seed --class=BookingSeeder
+
+
+===================== chart dashbaord 
+https://www.amcharts.com/demos/

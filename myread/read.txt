@@ -1,3 +1,14 @@
+================= Desain table
+https://sqliteonline.com/#verify=42884d0ece0aebaaa7ff331e960c5c5318d0505978d355c6f8aec8b2f2f14228
+
+================== database table for hotel management system
+https://studentprojectguide.com/project-report/database-design/database-table-for-hotel-management-system/
+
+==================auth login register without framework
+https://tutorialsart.com/laravel-8-custom-authentication-login-and-registration/
+
+=======================
+
 https://freethemescloud.com/item/chondo-free-resort-hotel-template/
 
 =========================================
