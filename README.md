@@ -1,6 +1,6 @@
 # LaravelHotelManagement
 
-<div class="head" style="float:left; padding:10px; width:100%">
+<div class="head" style="float:left; padding:10px; width:100%; texta-align:center;">
 <img src="myread/screenshots/contoh1.png" style="height :300px; width:430px;">
 <img src="myread/screenshots/contoh1.png" style="height :300px; width:430px;">
 </div>
