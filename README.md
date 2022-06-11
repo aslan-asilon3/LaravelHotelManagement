@@ -1,11 +1,11 @@
-# LaravelHotelManagement
+### LaravelHotelManagement
 
-<div class="head" style="float:left; padding:10px; width:100%;texta-align:center;">
-<img src="myread/screenshots/contoh1.png" style="height :300px; width:430px; margin-left:30px;margin-right:30px">
+#halaman login dan register
 <img src="myread/screenshots/contoh1.png" style="height :300px; width:430px;">
-</div>
+<img src="myread/screenshots/contoh1.png" style="height :300px; width:430px;">
 
-## 1.landing-page
+
+### 1.landing-page
 ![1.landing-page](/uploads/a3f17ac2e0ec64d91abe68eb5149596d/1.landing-page.png)
 
 ## 2.landing-page-our-room
