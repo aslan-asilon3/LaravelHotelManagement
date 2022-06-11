@@ -1,7 +1,7 @@
 # LaravelHotelManagement
 
-<div class="head" style="float:left; padding:10px; width:100%; margin:0px;texta-align:center;">
-<img src="myread/screenshots/contoh1.png" style="height :300px; width:430px;">
+<div class="head" style="float:left; padding:10px; width:100%;texta-align:center;">
+<img src="myread/screenshots/contoh1.png" style="height :300px; width:430px; margin-left:30px;">
 <img src="myread/screenshots/contoh1.png" style="height :300px; width:430px;">
 </div>
 
