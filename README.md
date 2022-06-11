@@ -3,8 +3,8 @@
 #halaman login dan register
 
 <div class="">
-<img src="myread/screenshots/contoh1.png" style="height :300px; width:430px;">
-<img src="myread/screenshots/contoh1.png" style="height :300px; width:430px;">
+<img src="myread/screenshots/contoh1.png" style="height :200px; width:350px;">
+<img src="myread/screenshots/contoh1.png" style="height :200px; width:350px;">
 </div>
 
 
