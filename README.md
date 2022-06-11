@@ -1,8 +1,8 @@
 # LaravelHotelManagement
 
-<div class="head" style="float:left; padding:10px;">
-<img src="myread/screenshots/contoh1.png" style="height :300px; width:60%;text-align:center;">
-<img src="myread/screenshots/contoh1.png" style="height :300px; width:60%;text-align:center;">
+<div class="head" style="float:left; padding:10px; width:100%">
+<img src="myread/screenshots/contoh1.png" style="height :300px; width:300px;">
+<img src="myread/screenshots/contoh1.png" style="height :300px; width:300px;">
 </div>
 
 ## 1.landing-page
